@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Sathwik N Sharma 92b11f</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<h1>This is the heading</h1>
+	<div>
+
+		<p>
+			This is the <span style="color:red">first</span> paragraph
+		</p>
+
+
+		<h2>This is an unorganised list</h2>
+		<ul>
+	  		<li><em>Coffee</em></li>
+	  		<li><strong>Tea</strong><br></li>
+	  		<li>Milk</li>
+		</ul>
+	</div>
+
+
+	<div>
+		<h2>To browse to other files use links below</h2>
+		<a href="page1.html">Page 1</a><br>
+		<a href="page2.html">Page 2</a><br>
+		<a href="page3.html">Page 3</a><br>
+	</div>
+
+</body>
+</html>
