@@ -1,0 +1,22 @@
+Step1: Install ngrok on your computer 
+
+Step 2: Run ngrok application on your terminal/command prompt using the following commands 
+        Macintosh:
+            cd pathOfTheNgrokExecutablefile
+            ./ngrok http 8888
+        Windows:
+            cd pathOfTheNgrokExecutablefile
+            ngrok http 8888
+            
+Step 3: Copy the URL that is being forwarded from your port 8888
+
+Step 4: Add /guess.php to the URL
+
+Step 5: Place the guess.php file in htdocs folder inside MAMP
+
+Step 6: Make relevant changes as per your assignment sspecifications in the guess.php file
+        You will need to change 
+            i)The name in the title tag
+           ii)The guessing number inside the php tag
+
+Step 7: Copy URL as in step 4 and go ahead for evaluation
